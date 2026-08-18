@@ -1,4 +1,4 @@
-# 🏥 AcademiaCrud
+# 🏥 DroneCrud
 
 Sistema desenvolvido em **ASP.NET Core MVC** utilizando a linguagem **C#** e o padrão arquitetural **Model-View-Controller (MVC)**.
 
@@ -77,7 +77,7 @@ O DataTables é utilizado para facilitar a **pesquisa, paginação e ordenação
 ## Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/AcademiaCrud.git
+git clone https://github.com/rafaelasolim-dev/DroneCrud.git
 ```
 
 ## Abra a solução
@@ -117,7 +117,7 @@ Pressione **F5** ou clique em **Iniciar** no Visual Studio.
 # 📂 Estrutura do Projeto
 
 ```text
-AcademiaCrud
+DroneCrud
 │
 ├── Controllers
 ├── Models
